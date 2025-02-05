@@ -1,9 +1,4 @@
 <div align="center">
-  <img height="150" src="http://gifgifs.com/animations/animals/cats/big_cat.gif" />
-</div>
-
----
-<div align="center">
   <a href="https://linkedin.com/in/bonaventurajulio">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
@@ -17,7 +12,7 @@
 
 ---
 
-<h1 align="center">Hey, what's up? 👋</h1>
+<h1 align="center">Hi! 👋 My name is Bonaventura</h1>
 
 ### 👩‍💻 About Me
 
